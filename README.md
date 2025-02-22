@@ -7,6 +7,7 @@ The build of st I created for my [Arch](https://archlinux.org) install on my Thi
 Patches I use, links to the exact version.
 
 - [Alpha](https://st.suckless.org/patches/alpha/st-alpha-20220206-0.8.5.diff)
+- [Clipboard](https://st.suckless.org/patches/clipboard/st-clipboard-0.8.3.diff)
 
 ## Installation
 
